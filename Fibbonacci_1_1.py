@@ -1,5 +1,5 @@
 
-n= int(input("How many terms? "))
+n= 10
 
 n1= 0
 n2 = 1
